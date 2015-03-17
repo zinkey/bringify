@@ -1,0 +1,25 @@
+{
+  "name": "bringify",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "browserify string",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zinkey/bringify"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-bringify",
+    "html2js",
+    "file2js",
+    "css2js"
+  ],
+  "dependencies": {
+    "through": "^2.3.6"
+  },
+  "author": {
+    "name": "zinkey",
+    "url": "https://github.com/zinkey"
+  },
+  "license": "MIT"
+}

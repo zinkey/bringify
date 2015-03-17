@@ -1,0 +1,8 @@
+.dev
+.tmp
+.idea
+*.diff
+*.patch
+*.log
+.DS_Store
+node_modules
